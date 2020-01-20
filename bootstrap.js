@@ -1,18 +1,17 @@
 module.exports = class walletBootstrap{
   constructor(config)
   {
-    this.funcs=[
+    this.funcs=[ 
       {
-          name:'sampleFunction',
-          title:'this is sample' ,
-          inputs:[
-			{
-				name:'user',
-				type:'UserInterface',
-				nullable:false
-			}
-          ]
-      }, 
+          name:'request', 
+      },     
+      {
+          name:'exchange', 
+      },   
+      {
+          name:'balance',
+          title:'this is sample' , 
+      },  
 	  
 	  
 	   

@@ -1,6 +1,6 @@
 {
   "name": "oriwallet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "origami wallet",
   "main": "index.js",
   "scripts": {
