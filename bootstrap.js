@@ -17,8 +17,8 @@ module.exports = class walletBootstrap{
     ]
     this.auth=[ 
             {
-                role: 'balance',
-                name: 'uploadStream'
+                role: 'login',
+                name: 'balance'
             },
         ]
   }
